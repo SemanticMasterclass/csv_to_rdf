@@ -1,0 +1,4 @@
+name: tutorial-csv-to-rdf
+type: shrinkwrap
+shrinkwrap-config:
+  python-version: "3.10"

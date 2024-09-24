@@ -1,0 +1,9 @@
+[tool.shrinkwrap]
+requirements_file = "requirements.txt"
+
+[tool.shrinkwrap.build]
+scripts = ["empty.py"]
+
+[build-system]
+requires = ["bloomberg.shrinkwrap"]
+build-backend = "bloomberg.shrinkwrap.build"
