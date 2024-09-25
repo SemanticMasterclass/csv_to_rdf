@@ -1,6 +1,0 @@
-charset-normalizer >=3, <4 
-jupyterlab
-jupyterlab_rise
-kglab
-matplotlib
-termcolor
